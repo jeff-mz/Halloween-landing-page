@@ -1,6 +1,6 @@
 # HALLOWEEN LANDING PAGE
 
-A funny and cool landing page for halloween with animated elements
+A funny and cool landing page for Halloween with animated elements
 
 ## Screenshots
 
@@ -12,4 +12,6 @@ A funny and cool landing page for halloween with animated elements
 
 - [Bootstrap](https://getbootstrap.com/)
 
-- [cursor effect](https://github.com/tholman/cursor-effects)
+- [Cursor Effect](https://github.com/tholman/cursor-effects)
+
+- [Figma File](https://www.figma.com/design/ZEZDtx7wscf3hO2YNPQfty/Halloween-Website-Design-(Community))
